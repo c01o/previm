@@ -1,4 +1,7 @@
 [README in English](https://github.com/kannokanno/previm/blob/master/README-en.mkd)
+## forkでかわったとこ
+[Vim で Markdown を使って数学の板書を取ってフル単する - sekai013's blog](http://sekai013.hatenablog.com/entry/2014/10/03/005553)
+これの再生産。
 
 ## Previm
 
